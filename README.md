@@ -27,14 +27,5 @@
 
 <br />
 <br />
-
----
-
-
----
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arnabdeypolimi&show_icons=true&hide_border=true)](https://github.com/taindp98)
-
-
 [twitter]: https://twitter.com/taindp98
 [linkedin]: https://www.linkedin.com/in/tai-nguyen1011/
