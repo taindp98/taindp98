@@ -33,9 +33,7 @@
 
 ---
 
-<img align="left" alt="arnabdeypolimi's Github Stats" src="https://github-readme-stats.vercel.app/api?username=arnabdeypolimi&show_icons=true&hide_border=true" />
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arnabdeypolimi&show_icons=true&hide_border=true)](https://github.com/arnabdeypolimi)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arnabdeypolimi&show_icons=true&hide_border=true)](https://github.com/taindp98)
 
 
 [twitter]: https://twitter.com/taindp98
