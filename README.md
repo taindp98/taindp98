@@ -1,7 +1,7 @@
 
 ### Hi there, I'm Tai Nguyen. 👋
 
-## I'm senior student!
+## I'm  fresh graduate!
 - 🌱 I’m currently learning advance computer vision and natural language processing.
 - 👯 I’m looking to collaborate with other developers.
 
