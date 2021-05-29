@@ -29,4 +29,5 @@
 
 
 [twitter]: https://twitter.com/taindp98
-[linkedin]: https://www.linkedin.com/in/tai-nguyen1011/
+[linkedin]: https://www.linkedin.com/in/taindp98/
+[medium]: https://taindp98.medium.com/
