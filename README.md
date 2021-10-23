@@ -1,9 +1,9 @@
 
-### Hi there, I'm Tai Nguyen. 👋
+### Hi there, I'm Tai NGUYEN. 👋
 
-## I'm  fresh graduate!
+## I'm a MSc student in Université Paris XIII !
 - 🌱 I’m currently learning advance computer vision and natural language processing.
-- 👯 I’m looking to collaborate with other developers.
+- 👯 I’m looking to collaborate with other researchers.
 
 
 ### Connect with me:
