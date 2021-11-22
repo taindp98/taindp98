@@ -33,5 +33,5 @@
 [linkedin]: https://www.linkedin.com/in/taindp98/
 [medium]: https://taindp98.medium.com/
 
-![stats](https://github-readme-stats.vercel.app/api?username=quocanh1897&show_icons=true&theme=merko)
+![stats](https://github-readme-stats.vercel.app/api?username=taindp98&show_icons=true&theme=merko)
 
