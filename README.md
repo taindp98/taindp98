@@ -2,8 +2,8 @@
 ### Hi there, I'm Tai NGUYEN. 👋
 
 ##
-- Currently: MSc student in Universite Paris XIII!
-- Previously: AI researcher in computer vision and natural language processing.
+- Currently: MSc in Universite Paris XIII!
+- Previously: AI research enginner in computer vision and natural language processing.
 
 ![stats](https://github-readme-stats.vercel.app/api?username=taindp98&show_icons=true&theme=dracula)
 
