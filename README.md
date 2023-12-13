@@ -5,7 +5,8 @@
 - Currently: AI enthusiast!
 - Previously: MSc in Universite Paris XIII, AI research enginner in computer vision and natural language processing.
 
-![stats](https://github-readme-stats.vercel.app/api?username=taindp98&show_icons=true&theme=dracula)
+![stats](https://github-readme-stats.vercel.app/api?username=taindp98&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=taindp98)
 
 ### Connect with me:
 
