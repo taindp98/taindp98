@@ -8,12 +8,6 @@
 ![stats](https://github-readme-stats.vercel.app/api?username=taindp98&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=taindp98)
 
-### Connect with me:
-
-[<img align="left" alt="arnabdey0503 | Twitter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="arnabdey0503 | LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="arnabdey0503 | Medium" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/e/ec/Medium_logo_Monogram.svg" />][medium]
-
 <br />
 
 <!-- ### Languages and Tools:
