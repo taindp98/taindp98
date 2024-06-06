@@ -1,9 +1,12 @@
 
 ### Hi there, I'm Tai NGUYEN. 👋
 
-##
-- Currently: AI enthusiast!
-- Previously: MSc in Universite Paris XIII, AI research enginner in computer vision and natural language processing.
+✨ During my teenage years, I developed a strong affinity for photography, which has continued to be a passion of mine to this day. However, what sets me apart now is my application of scientific principles to tackle challenges in computer vision.
+
+🚀 Research interests:
+- Deep Neural Network.
+- Scene Understanding.
+- Prompt Engineering.
 
 ![stats](https://github-readme-stats.vercel.app/api?username=taindp98&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=taindp98)
@@ -23,10 +26,4 @@
 
 <br />
 <br />
-
-
-[twitter]: https://twitter.com/taindp98
-[linkedin]: https://www.linkedin.com/in/taindp98/
-[medium]: https://taindp98.medium.com/
-
 
