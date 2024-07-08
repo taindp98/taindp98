@@ -4,6 +4,8 @@ Glad to see you here! I'm Rémi, an **AI Enthusiast** with a strong passion for 
 
 ### Publications
 
+- 📖 [07/2024] Our research, titled "[Dude: Dual Distribution-Aware Context Prompt Learning for Large Vision-Language Models](https://arxiv.org/pdf/2407.04489),” conducted at DFKI, is currently under review.
+  
 - 📖 [05/2024] Our research conducted at DFKI, titled: "[Structure-Aware E(3)-Invariant Molecular Conformer Aggregation Networks](https://arxiv.org/pdf/2402.01975)” has been accepted for publication at ICML 2024 (rank A*, h5-index: 254 Google Scholar), acceptance rate of 27.5%. Source code is available at [here](https://github.com/duyhominhnguyen/conan-fgw).
 
 - 📖 [12/2023] Our research on active learning, titled: "[Hierarchical Uncertainty Aggregation and Emphasis Loss for Active Learning in Object Detection](https://ieeexplore.ieee.org/document/10386534)” has been accepted for publication at a special session on machine learning during IEEE BigData 2023 (h5-index: 53 Google Scholar).
