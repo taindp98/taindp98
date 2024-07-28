@@ -2,29 +2,21 @@
 
 Glad to see you here! I'm Rémi, an **AI Enthusiast** with a strong passion for **Machine Learning**.
 
-### Publications
+### Selected Publications
 
-- 📖 [07/2024] Our research, titled "[Dude: Dual Distribution-Aware Context Prompt Learning for Large Vision-Language Models](https://arxiv.org/pdf/2407.04489),” conducted at DFKI, is currently under review.
+- 📖 [07/2024] Our research conducted at **DFKI**, titled "[Dude: Dual Distribution-Aware Context Prompt Learning for Large Vision-Language Models](https://arxiv.org/pdf/2407.04489)”, is currently under review.
   
-- 📖 [05/2024] Our research conducted at DFKI, titled: "[Structure-Aware E(3)-Invariant Molecular Conformer Aggregation Networks](https://arxiv.org/pdf/2402.01975)” has been accepted for publication at ICML 2024 (rank A*, h5-index: 254 Google Scholar), acceptance rate of 27.5%. Source code is available at [here](https://github.com/duyhominhnguyen/conan-fgw).
+- 📖 [05/2024] Our research conducted at **DFKI**, titled: "[Structure-Aware E(3)-Invariant Molecular Conformer Aggregation Networks](https://arxiv.org/pdf/2402.01975)” has been accepted for publication at ICML 2024 (rank A*, h5-index: 254 Google Scholar, acceptance rate of 27.5%). Source code is available at [here](https://github.com/duyhominhnguyen/conan-fgw) <img alt="GitHub stars" src="https://img.shields.io/github/stars/duyhominhnguyen/conan-fgw?style=flat-square">.
 
-- 📖 [12/2023] Our research on active learning, titled: "[Hierarchical Uncertainty Aggregation and Emphasis Loss for Active Learning in Object Detection](https://ieeexplore.ieee.org/document/10386534)” has been accepted for publication at a special session on machine learning during IEEE BigData 2023 (h5-index: 53 Google Scholar).
+- 📖 [12/2023] Our research conducted at **SAMSUNG SDS**, titled: "[Hierarchical Uncertainty Aggregation and Emphasis Loss for Active Learning in Object Detection](https://ieeexplore.ieee.org/document/10386534)” has been accepted for publication at a special session on machine learning during IEEE BigData 2023 (h5-index: 53 Google Scholar, acceptance rate of 17.4%). Supplemental materials is available at [here](https://github.com/taindp98/Active-Learning-Object-Detection) <img alt="GitHub stars" src="https://img.shields.io/github/stars/taindp98/Active-Learning-Object-Detection?style=flat-square">.
 
 ### Projects
 
 Apart from the pinned repositories, I have built:
-- ⛑️ [Anomaly Detection Meets Telegram Chatbot - A Demo](https://jesuisremi.super.site/project/anomaly-detection-meets-telegram-chatbot-a-demo)
-- 👔 [Vector Search: Next Generation of RecSys](https://jesuisremi.super.site/project/vector-search-next-generation-of-recsys)
-- 🤖 [Vietnamese Chatbot](https://jesuisremi.super.site/project/chatbot-university-consultancy)
+- ⛑️ [Demo: Anomaly detection meets Telegram Chatbot](https://jesuisremi.super.site/project/anomaly-detection-meets-telegram-chatbot-a-demo) (Code will be released soon)
+- 👔 <img alt="GitHub stars" src="https://img.shields.io/github/stars/taindp98/Clothes-RecSys-Vector-Search?style=flat-square"> [Implementation Vector Search for Recommendation System](https://jesuisremi.super.site/project/vector-search-next-generation-of-recsys)
+- 🤖 <img alt="GitHub stars" src="https://img.shields.io/github/stars/taindp98/Vietnamese-Chatbot?style=flat-square"> [Release code for Vietnamese chatbot from scratch (Published in IEEE IMCOM 2022)](https://jesuisremi.super.site/project/chatbot-university-consultancy)
 
-
-### Let's connect!
-
-Explore my thoughts at [JesuisRemi](https://jesuisremi.super.site), and let's connect on [LinkedIn](https://www.linkedin.com/in/taindp98/).
-
-<p align="center">
-[![LinkedIn](https://img.shields.io/static/v1.svg?label=LinkedIn&message=taindp98&logo=linkedin&style=flat&color=blue)](https://www.linkedin.com/in/taindp98/) [![GitHub followers](https://img.shields.io/github/followers/taindp98.svg?label=Follow%20@taindp98&style=social)](https://github.com/taindp98/)
-</p>
 
 **Let's code, connect, and create awesome things together!**
 
