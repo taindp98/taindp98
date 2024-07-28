@@ -22,7 +22,9 @@ Apart from the pinned repositories, I have built:
 
 Explore my thoughts at [JesuisRemi](https://jesuisremi.super.site), and let's connect on [LinkedIn](https://www.linkedin.com/in/taindp98/).
 
+<p align="center">
 [![LinkedIn](https://img.shields.io/static/v1.svg?label=LinkedIn&message=taindp98&logo=linkedin&style=flat&color=blue)](https://www.linkedin.com/in/taindp98/) [![GitHub followers](https://img.shields.io/github/followers/taindp98.svg?label=Follow%20@taindp98&style=social)](https://github.com/taindp98/)
+</p>
 
 **Let's code, connect, and create awesome things together!**
 
