@@ -14,7 +14,7 @@ Glad to see you here! I'm Rémi, an **AI Enthusiast** with a strong passion for 
 
 Apart from the pinned repositories, I have built:
 - ⛑️ [Demo: Anomaly detection meets Telegram Chatbot](https://jesuisremi.super.site/project/anomaly-detection-meets-telegram-chatbot-a-demo) (Code will be released soon)
-- 🏙️ [Classical methods to enhance image without quality loss](https://github.com/taindp98/Image-Enhancement)
+- 🏙️ <img alt="GitHub stars" src="https://img.shields.io/github/stars/taindp98/Image-Enhancement?style=flat-square"> [Classical methods to enhance image without quality loss](https://github.com/taindp98/Image-Enhancement)
 - 👔 <img alt="GitHub stars" src="https://img.shields.io/github/stars/taindp98/Clothes-RecSys-Vector-Search?style=flat-square"> [Implementation Vector Search for Recommendation System](https://jesuisremi.super.site/project/vector-search-next-generation-of-recsys)
 - 🤖 <img alt="GitHub stars" src="https://img.shields.io/github/stars/taindp98/Vietnamese-Chatbot?style=flat-square"> [Release code for Vietnamese chatbot from scratch (Published in IEEE IMCOM 2022)](https://jesuisremi.super.site/project/chatbot-university-consultancy)
 
