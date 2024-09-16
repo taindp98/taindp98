@@ -2,6 +2,8 @@
 
 Glad to see you here! I'm Rémi, an **AI Enthusiast** with a strong passion for **Machine Learning**.
 
+I am currently in pursuit of a PhD program in Computer Science. Before this, I obtained my master's degree in image processing and a bachelor's degree in electronics and telecommunications. My journey in the tech world is driven by a love for coding, connecting with like-minded individuals, and creating innovative solutions.
+
 ### Selected Publications
 
 - 📖 [09/2024] Our research conducted at **DFKI**, titled "[Dude: Dual Distribution-Aware Context Prompt Learning for Large Vision-Language Models](https://arxiv.org/pdf/2407.04489)”, has been accepted for publication at ACML 2024, acceptance rate of 26%.
@@ -9,14 +11,6 @@ Glad to see you here! I'm Rémi, an **AI Enthusiast** with a strong passion for 
 - 📖 [05/2024] Our research conducted at **DFKI**, titled: "[Structure-Aware E(3)-Invariant Molecular Conformer Aggregation Networks](https://proceedings.mlr.press/v235/nguyen24g.html)” has been accepted for publication at ICML 2024 (rank A*, h5-index: 254 Google Scholar, acceptance rate of 27.5%). Source code is available at [here](https://github.com/duyhominhnguyen/conan-fgw).
 
 - 📖 [12/2023] Our research conducted at **SAMSUNG SDS**, titled: "[Hierarchical Uncertainty Aggregation and Emphasis Loss for Active Learning in Object Detection](https://ieeexplore.ieee.org/document/10386534)” has been accepted for publication at a special session on machine learning during IEEE BigData 2023 (h5-index: 53 Google Scholar, acceptance rate of 17.4%). Supplemental materials is available at [here](https://github.com/taindp98/Active-Learning-Object-Detection).
-
-### Projects
-
-Apart from the pinned repositories, I have built:
-- ⛑️ [Demo: Anomaly detection meets Telegram Chatbot](https://jesuisremi.super.site/projects/anomaly-detection-meets-telegram-chatbot-a-demo) (Code will be released soon)
-- 👔 <img alt="GitHub stars" src="https://img.shields.io/github/stars/taindp98/Clothes-RecSys-Vector-Search?style=flat"> [Implementation Vector Search MongoDB for Recommendation System](https://jesuisremi.super.site/project/vector-search-next-generation-of-recsys)
-- 🤖 <img alt="GitHub stars" src="https://img.shields.io/github/stars/taindp98/Vietnamese-Chatbot?style=flat"> [Release code for Vietnamese chatbot from scratch (Published in IEEE IMCOM 2022)](https://jesuisremi.super.site/project/chatbot-university-consultancy)
-
 
 **Let's code, connect, and create awesome things together!**
 
