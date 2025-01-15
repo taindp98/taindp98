@@ -6,7 +6,7 @@ I am currently in pursuit of a PhD program in Computer Science. Before this, I o
 
 ### Selected Publications
 
-- 📖 [09/2024] Our research conducted at **DFKI**, titled "[Dude: Dual Distribution-Aware Context Prompt Learning for Large Vision-Language Models](https://arxiv.org/pdf/2407.04489)”, has been accepted for publication at ACML 2024, acceptance rate of 26%.
+- 📖 [09/2024] Our research conducted at **DFKI**, titled "[Dude: Dual Distribution-Aware Context Prompt Learning for Large Vision-Language Models]([https://arxiv.org/pdf/2407.04489](https://proceedings.mlr.press/v260/nguyen25c.html))”, has been accepted for publication at ACML 2024, acceptance rate of 26%.
   
 - 📖 [05/2024] Our research conducted at **DFKI**, titled: "[Structure-Aware E(3)-Invariant Molecular Conformer Aggregation Networks](https://proceedings.mlr.press/v235/nguyen24g.html)” has been accepted for publication at ICML 2024 (rank A*, h5-index: 254 Google Scholar, acceptance rate of 27.5%). Source code is available at [here](https://github.com/duyhominhnguyen/conan-fgw).
 
